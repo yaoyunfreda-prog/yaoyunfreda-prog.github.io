@@ -10,6 +10,9 @@
 - `resume.html`：完整网页版简历与原版 PDF
 - `portfolio.html`：作品集图文页面
 - `patterns.html`：纹启丝路交互明信片与语音讲解
+- 首页「03 作品项目」下方的「研究与写作」：章节翻译与个人研究论文
+- `ai-aesthetics.html`：《AI美学》书籍材料、第五章中文译文与英文原文
+- `hear-paper.html`：HEAR 研究介绍、论文 PDF 与游戏入口
 
 使用 HTML、CSS、JavaScript。GitHub Pages 从 `main` 分支根目录发布，无需构建。
 
